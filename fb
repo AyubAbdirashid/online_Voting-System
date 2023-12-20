@@ -1,7 +1,7 @@
-var fullName = " 󱢏";
-var firstName = "";
+var fullName = "Ayub Abdirashid󱢏";
+var firstName = "Ayub";
 var middleName = "";
-var lastName = "";
+var lastName = "Abdirashid";
 var spinr = require('SiteData')['__spin_r'];
 var jazoest = require('SprinkleConfig')['jazoest'];
 var fb_dtsg = require("DTSGInitialData")['token'];
